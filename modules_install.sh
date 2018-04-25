@@ -39,6 +39,7 @@ sudo git clone https://github.com/fgarcia-humanoide/supermodulo.git $OE_HOME/sup
 sudo git clone --branch 10.0 https://github.com/OCA/account-invoicing.git $OE_HOME/account-invoicing
 sudo git clone --branch 10.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis-builder
 sudo git clone --branch 10.0 https://github.com/OCA/queue.git $OE_HOME/queue
+sudo git clone --branch 10.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis-builder
 
 
 
