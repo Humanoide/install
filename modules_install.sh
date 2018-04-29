@@ -40,6 +40,7 @@ sudo git clone --branch 10.0 https://github.com/OCA/account-invoicing.git $OE_HO
 sudo git clone --branch 10.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis-builder
 sudo git clone --branch 10.0 https://github.com/OCA/queue.git $OE_HOME/queue
 sudo git clone --branch 10.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis-builder
+sudo git clone --branch 10.0 https://github.com/OCA/knowledge.git $OE_HOME/knowledge
 
 
 
