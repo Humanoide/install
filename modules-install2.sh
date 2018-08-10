@@ -34,11 +34,6 @@ sudo git clone --branch 8.0 https://github.com/OCA/bank-statement-import.git $OE
 sudo git clone --branch 8.0 https://github.com/OCA/project.git $OE_HOME/project
 sudo git clone --branch 8.0 https://github.com/OCA/crm.git $OE_HOME/crm
 sudo git clone --branch 8.0 https://github.com/OCA/account-invoicing.git $OE_HOME/account-invoicing
-sudo git clone --branch 8.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis-builder
-
-
-
-
 
 
 
