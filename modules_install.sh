@@ -1,4 +1,4 @@
-##fixed parameters
+##fixed parameterss
 #openerp
 OE_USER="odoo"
 OE_HOME="/opt/$OE_USER"
