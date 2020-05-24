@@ -73,7 +73,7 @@ sudo pip install gdata psycogreen ofxparse XlsxWriter unidecode setuptools unico
 
 
 # echo -e "\n---- Install more python libraries ----"
-# sudo pip install pycrypto unidecode unicodecsv requests openupgradelib
+# sudo pip install pycrypto unidecode unicodecsv requests openupgradelib qrcode
 # sudo -H pip install suds
 
 echo -e "\n--- Install other required packages"
