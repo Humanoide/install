@@ -41,6 +41,7 @@ sudo git clone --branch 10.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis
 sudo git clone --branch 10.0 https://github.com/OCA/queue.git $OE_HOME/queue
 sudo git clone --branch 10.0 https://github.com/OCA/mis-builder.git $OE_HOME/mis-builder
 sudo git clone --branch 10.0 https://github.com/OCA/hr.git $OE_HOME/hr
+sudo git clone --branch 10.0 https://github.com/OCA/timesheet.git $OE_HOME/timesheet
 
 
 
