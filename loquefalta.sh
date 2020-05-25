@@ -9,3 +9,5 @@ sudo pip install unidecode
 sudo pip install unicodecsv
 sudo pip install xlsxwriter 
 sudo pip install babel 
+sudo pip install openupgradelib
+sudo pip install qrcode
