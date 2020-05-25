@@ -1,4 +1,5 @@
 qrcode
 openupgradelib
+xlsxwriter
 
 pip install
